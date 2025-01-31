@@ -1,4 +1,6 @@
-# LondonHouses
-Machine Learning - London Houses (Python)
+London House Prices - Regression (Python)
 
-Prediction of the prices of London houses using London houses data
+Predicting the prices of London houses using models in Scikit-learn.
+
+MODELS USED:
+Random Forest, Gradient Boosting, Adaptive Boosting
